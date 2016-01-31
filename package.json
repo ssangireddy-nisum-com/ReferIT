@@ -1,0 +1,23 @@
+{
+  "name": "referit",
+  "version": "1.0.0",
+  "description": "to do something'",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssangireddy-nisum-com/ReferIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssangireddy-nisum-com/ReferIT/issues"
+  },
+  "homepage": "https://github.com/ssangireddy-nisum-com/ReferIT#readme"
+}
